@@ -21,6 +21,6 @@
 <body class="body">
 
     <header>
+        <div id="particle-canvas"></div>
 
-       
     </header>
